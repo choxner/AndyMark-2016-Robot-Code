@@ -1,4 +1,4 @@
-# AndyMark Robot in 3 Days Code Documentation
+# AndyMark 2016 STRONGHOLD Robot in 3 Days Code Documentation
 ![Image of the robot.](https://raw.githubusercontent.com/choxner/AndyMark-2016-Robot-Code/master/AndyMark-2016-Robot-Code/Reference/am_2016_robot.jpg)
 
 This is the documentation for the LabVIEW code written for the 2016 *FIRST* Robotics Competition robot built by AndyMark. All code is written by *FIRST* Robotics Competition Team #2655, The Flying Platypi. The code is accessible on [GitHub](https://github.com/choxner/AndyMark-2016-Robot-Code). Additional code written by Team #2655 can be found [here](https://github.com/FRC-Team2655).
@@ -39,3 +39,5 @@ The shooter motor that launches boulders into the high goal is controlled using 
 
 ## Climbing Mechanism
 The climbing mechanism is split into two parts, the low arm and the high arm. The low arm is controlled by the A button and the B button. The B button raises it and the A button lowers it. The high arm is conrolled by the X button and the Y button. The Y button raises it and the X button lowers it. This is shown in the Teleop .vi.
+
+Code & Documentation by Claire O.
